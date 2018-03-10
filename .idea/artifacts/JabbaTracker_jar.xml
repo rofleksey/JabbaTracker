@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JabbaTracker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JabbaTracker_jar</output-path>
+    <root id="archive" name="JabbaTracker.jar">
+      <element id="module-output" name="JabbaTracker" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jsoup/jsoup-1.11.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20171018/json-20171018.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
